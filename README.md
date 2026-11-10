@@ -41,6 +41,8 @@ O site foi inspirado em portfólios editoriais modernos, com títulos grandes, m
 
 ## ✨ Destaques
 
+- **Tela de entrada** com assinatura sendo escrita, contador de 0 a 100% e cortina que revela o site
+- Tema escuro com **cursor customizado**, cards com **tilt 3D**, botões magnéticos e animações ao rolar
 - Layout **responsivo**, pensado para celular e computador
 - Fundo com **linhas topográficas geradas por código** a cada carregamento
 - Animações que respeitam a preferência de **movimento reduzido** do sistema
